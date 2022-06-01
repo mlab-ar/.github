@@ -59,3 +59,13 @@
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=Azure&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-web-services&logoColor=white&color=4AB197)
+
+## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebitar&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
+
+<p align="center">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=thebitar&bg_color=231F20&color=03A062&line=03A062&point=03A062&area=true&hide_border=true">
+
+</p>
