@@ -7,7 +7,7 @@
 
 🙋‍♀️ We're The Bit, a small software company who loves to code, hack and build things, cool things =), We're actually based in Argentina but growing at a fast pace every day.
 
-🌈 As a cooperative we love rainbows, you know it's the cooperative flag, also we're totally inclusive n.n
+🌈 As a company we love rainbows also we're totally inclusive n.n
 
 👩‍💻 Let's checkout our site: www.thebit.ar
 
