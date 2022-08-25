@@ -11,7 +11,7 @@
 
 👩‍💻 Let's checkout our site: www.thebit.ar
 
-🍿 Fun fact? Every member of The Bit Coop it's a hardcore fan of The Office (but we don't practice "hardcore parkour" haha)
+🍿 Fun fact? Every member of The Bit Corp it's a hardcore fan of The Office (but we don't practice "hardcore parkour" haha)
 
 ## 💼 Our collective skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
