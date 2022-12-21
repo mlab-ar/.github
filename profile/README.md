@@ -8,7 +8,7 @@
 
 🌈 As a company we love rainbows also we're totally inclusive n.n
 
-👩‍💻 Let's checkout our site: yerba.tech
+👩‍💻 Let's checkout our site: https://yerba.tech
 
 🍿 Fun fact? Every member of Yerba it's a hardcore fan of The Office (but we don't practice "hardcore parkour" haha)
 
