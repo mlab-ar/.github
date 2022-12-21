@@ -1,16 +1,16 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/company/thebitar/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/thebitcoop/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/company/yerba/)
+[![Instagram Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.twitter.com/yerba_ok)
 
 
 ## Hi there 👋
 
-🙋‍♀️ We're The Bit, a small software company who loves to code, hack and build things, cool things =), We're actually based in Argentina but growing at a fast pace every day.
+🙋‍♀️ We're Yerba, a small software company who loves to code, hack and build things, cool things =), We're actually based in Argentina but growing at a fast pace every day.
 
 🌈 As a company we love rainbows also we're totally inclusive n.n
 
-👩‍💻 Let's checkout our site: www.thebit.ar
+👩‍💻 Let's checkout our site: yerba.tech
 
-🍿 Fun fact? Every member of The Bit Corp it's a hardcore fan of The Office (but we don't practice "hardcore parkour" haha)
+🍿 Fun fact? Every member of Yerba it's a hardcore fan of The Office (but we don't practice "hardcore parkour" haha)
 
 ## 💼 Our collective skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
